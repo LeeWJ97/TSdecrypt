@@ -8,8 +8,6 @@ import time
 import requests
 import excel
 
-
-#demo1
 def ts_download(path,workbook,worksheet):
     previous_raw_video = ''
     for i in range(1,100):
